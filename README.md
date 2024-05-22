@@ -1,5 +1,7 @@
 # NURS6702IntroHealthInformResources
 
+* Notes from text: https://github.com/cmcntsh/NotesNursInformFoundKnowledge
+
 ## Week 1 Journal Self Reflection
 
 Prompt
